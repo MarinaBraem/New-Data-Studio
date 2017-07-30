@@ -1,10 +1,10 @@
 .container {
   width: 750px;
-  color: #141414;
+  color: #333;
   margin: 0 auto;
   padding-bottom: 60px;
-  padding-top: 40px;
-  font-family: Arial, sans-serif;
+  padding-top: 60px;
+  font-family: Georgia, sans-serif;
   position: relative;
 }
 
