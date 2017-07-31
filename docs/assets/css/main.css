@@ -4,7 +4,7 @@
   margin: 0 auto;
   padding-bottom: 60px;
   padding-top: 60px;
-  font-family: Georgia, sans-serif;
+  font-family: Helvetica, sans-serif;
   position: relative;
 }
 
@@ -36,7 +36,7 @@ li {
 
 a {
   text-decoration: none;
-  background: #bdffc5;
+  background: #5B7F73;
   padding: 3px 6px;
   color: #000;
 }
