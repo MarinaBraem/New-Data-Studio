@@ -5,8 +5,6 @@ permalink: /about
 
 ---
 
-This is a longer about me page
+My name is Marina
 
-About me
-
-About me
+Who I am. 
