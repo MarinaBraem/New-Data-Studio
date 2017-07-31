@@ -8,6 +8,6 @@ layout: default
 
 This is my site of projects for the [Lede Program](http://ledeprogram.com)
 
-* [Marathon women]({{ site.url }}/a-very-cool-project): Lorem ipsum
+* [Marathon Women]({{ site.url }}/a-very-cool-project): Lorem ipsum
 * [Project 2]({{ site.url }}/a-very-cool-project): Lorem ipsum
 * [Project 3]({{ site.url }}/a-very-cool-project): Lorem ipsum
