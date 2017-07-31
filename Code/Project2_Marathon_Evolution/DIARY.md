@@ -28,6 +28,7 @@ I try to figure out what will be the best proceed to complete my dataset.
 How can I scrape all these results-pages?
 
 – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – 
+
 __3__Wednesday, 2017-07-26
 I realize, that the scraping stuff is overwhelming me for the moment. 
 So I'm cleaning now just all tables for all 6 marathons for all winners.
@@ -37,5 +38,7 @@ I found as well the overview for the point system of the wmm's.
 Perhaps this will be easier to manage.
 
 But I still wanna focus on the complete finisher number for the total, the men and the women. 
+I talked with Simon about the proceed and the management for my story. 
+w
 – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – 
 
