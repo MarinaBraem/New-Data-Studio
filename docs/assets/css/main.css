@@ -4,7 +4,7 @@
   margin: 0 auto;
   padding-bottom: 60px;
   padding-top: 60px;
-  font-family: Georgia, sans-serif;
+  font-family: Helvetica, sans-serif;
   position: relative;
 }
 
@@ -17,7 +17,8 @@
 }
 
 h1 {
-  font-size: 54px;
+  font-size: 30px;
+  font-weight: lighter
 }
 
 h2 {
@@ -36,7 +37,8 @@ li {
 
 a {
   text-decoration: none;
-  background: #bdffc5;
+  background: #303030;
   padding: 3px 6px;
-  color: #303030;
+  color: #FFFFFF;
 }
+
