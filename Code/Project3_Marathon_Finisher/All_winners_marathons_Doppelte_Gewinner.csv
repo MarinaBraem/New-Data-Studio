@@ -1,0 +1,301 @@
+date,m_winner,m_country,m_time,f_winner,f_country,f_time,marathon
+1970,Gary Muhrcke,USA,02:31:39,NaN,NaN,NaN,New York
+1971,Norm Higgins,USA,02:22:54,Beth Bonner,USA,02:55:22,New York
+1972,Sheldon Karlin,USA,02:27:52,Nina Kuscsik,USA,03:08:41,New York
+1973,Tom Fleming,USA,02:21:55,Nina Kuscsik,USA,02:57:08,New York
+1974,Norbert Sander,USA,02:26:31,Kathrine Switzer,USA,03:07:29,New York
+1975,Tom Fleming,USA,02:19:27,Kim Merritt,USA,02:46:14,New York
+1976,Bill Rodgers,USA,02:10:09,Miki Gorman,USA,02:39:11,New York
+1977,Bill Rodgers,USA,02:11:20,Miki Gorman,USA,02:43:10,New York
+1978,Bill Rodgers,USA,02:12:12,Grete Waitz,NOR,02:32:30,New York
+1979,Bill Rodgers,USA,02:11:42,Grete Waitz,NOR,02:27:33,New York
+1980,Alberto Salazar,USA,02:09:41,Grete Waitz,NOR,02:25:42,New York
+1981,Alberto Salazar,USA,02:08:13,Allison Roe,NZL,02:25:29,New York
+1982,Alberto Salazar,USA,02:09:29,Grete Waitz,NOR,02:27:14,New York
+1983,Rod Dixon,NZL,02:08:59,Grete Waitz,NOR,02:27:00,New York
+1984,Orlando Pizzolato,ITA,02:14:53,Grete Waitz,NOR,02:29:30,New York
+1985,Orlando Pizzolato,ITA,02:11:34,Grete Waitz,NOR,02:28:34,New York
+1986,Gianni Poli,ITA,02:11:06,Grete Waitz,NOR,02:28:06,New York
+1987,Ibrahim Hussein,KEN,02:11:01,Priscilla Welch,GBR,02:30:17,New York
+1988,Steve Jones,GBR,02:08:20,Grete Waitz,NOR,02:28:07,New York
+1989,Juma Ikangaa,TAN,02:08:01,Ingrid Kristiansen,NOR,02:25:30,New York
+1990,Douglas Wakiihuri,KEN,02:12:39,Wanda Panfil,POL,02:30:45,New York
+1991,Salvador García,MEX,02:09:28,Liz McColgan,GBR,02:27:32,New York
+1992,Willie Mtolo,RSA,02:09:29,Lisa Martin-Ondieki,AUS,02:24:40,New York
+1993,Andrés Espinosa,MEX,02:10:04,Uta Pippig,GER,02:26:24,New York
+1994,Germán Silva,ITA,02:11:21,Tegla Loroupe,KEN,02:27:37,New York
+1995,Germán Silva,ITA,02:11:00,Tegla Loroupe,KEN,02:28:06,New York
+1996,Giacomo Leone,ITA,02:09:54,Anuța Cătună,ROU,02:28:18,New York
+1997,John Kagwe,KEN,02:08:12,Franziska Rochat-Moser,SUI,02:28:43,New York
+1998,John Kagwe,KEN,02:08:45,Franca Fiacconi,ITA,02:25:17,New York
+1999,Joseph Chebet,KEN,02:09:14,Adriana Fernández,MEX,02:25:06,New York
+2000,Abdelkader El Mouaziz,MAR,02:10:09,Ljudmila Petrowa,RUS,02:25:45,New York
+2001,Tesfaye Jifar,ETH,02:07:43,Margaret Okayo,KEN,02:24:21,New York
+2002,Rodgers Rop,KEN,02:08:07,Joyce Chepchumba,KEN,02:25:56,New York
+2003,Martin Kiptoo Lel,KEN,02:10:30,Margaret Okayo,KEN,02:22:31,New York
+2004,Hendrick Ramaala,RSA,02:09:28,Paula Radcliffe,GBR,02:23:10,New York
+2005,Paul Tergat,KEN,02:09:30,Jeļena Prokopčuka,GBR,02:24:41,New York
+2006,Marílson dos Santos,BRA,02:09:58,Jeļena Prokopčuka,LAT,02:25:05,New York
+2007,Martin Kiptoo Lel,KEN,02:09:04,Paula Radcliffe,GBR,02:23:09,New York
+2008,Marílson dos Santos, BRA,02:08:43,Paula Radcliffe,GBR,02:23:56,New York
+2009,Mebrahtom Keflezighi,USA,02:09:15,Derartu Tulu,ETH,02:28:52,New York
+2010,Gebregziabher Gebremariam,ETH,02:08:14,Edna Ngeringwony Kiplagat,KEN,02:28:20,New York
+2011,Geoffrey Kiprono Mutai,KEN,02:05:06,Firehiwot Dado,ETH,02:23:15,New York
+2013,Geoffrey Kiprono Mutai,KEN,02:08:24,Priscah Jeptoo,KEN,02:25:07,New York
+2014,Wilson Kipsang,KEN,02:10:59,Mary Keitany,KEN,02:25:07,New York
+2015,Stanley Kipleting Biwott,KEN,02:10:34,Mary Keitany,KEN,02:24:25,New York
+2016,Ghirmay Ghebreslassie,ERI,02:07:51,Mary Keitany,KEN,02:24:26,New York
+1897,John J. McDermott,USA,02:55:10,NaN,NaN,NaN,Boston
+1898,Ronald MacDonald,CAN,02:42:00,NaN,NaN,NaN,Boston
+1899,Lawrence Brignolia,USA,02:54:38,NaN,NaN,NaN,Boston
+1900,Jack Caffery,CAN,02:39:44,NaN,NaN,NaN,Boston
+1901,Jack Caffery,CAN,02:29:23,NaN,NaN,NaN,Boston
+1902,Sammy Mellor,USA,02:43:12,NaN,NaN,NaN,Boston
+1903,John C. Lorden,USA,02:41:29,NaN,NaN,NaN,Boston
+1904,Michael Spring,USA,02:38:04,NaN,NaN,NaN,Boston
+1905,Frederick Lorz,USA,02:38:25,NaN,NaN,NaN,Boston
+1906,Tim Ford,USA,02:45:45,NaN,NaN,NaN,Boston
+1907,Thomas Longboat (CAN),CAN,02:24:24,NaN,NaN,NaN,Boston
+1908,Thomas Morrissey (USA),USA,02:25:43,NaN,NaN,NaN,Boston
+1909,Henri Renaud (USA),USA,02:53:36,NaN,NaN,NaN,Boston
+1910,Fred Cameron (CAN),CAN,02:28:52,NaN,NaN,NaN,Boston
+1911,Clarence DeMar (USA),USA,02:21:39,NaN,NaN,NaN,Boston
+1912,Michael J. Ryan (USA),USA,02:21:18,NaN,NaN,NaN,Boston
+1913,Fritz Carlson (USA),USA,02:25:14,NaN,NaN,NaN,Boston
+1914,James Duffy (CAN),CAN,02:25:01,NaN,NaN,NaN,Boston
+1915,Édouard Fabre (CAN),CAN,02:31:41,NaN,NaN,NaN,Boston
+1916,Arthur V. Roth (USA),USA,02:27:16,NaN,NaN,NaN,Boston
+1917,Bill Kennedy (USA),USA,02:28:37,NaN,NaN,NaN,Boston
+1918,(nur Mannschaftswertung),NaN,NaN,NaN,NaN,NaN,Boston
+1919,Carl Linder (USA),USA,02:29:13,NaN,NaN,NaN,Boston
+1920,Peter Trivoulidas (GRE),GRE,02:29:31,NaN,NaN,NaN,Boston
+1921,Frank T. Zuna (USA),USA,02:18:57,NaN,NaN,NaN,Boston
+1922,Clarence DeMar -2-,USA,02:18:10,NaN,NaN,NaN,Boston
+1923,Clarence DeMar -3-,USA,02:23:47,NaN,NaN,NaN,Boston
+1924,Clarence DeMar -4-,USA,02:29:40,NaN,NaN,NaN,Boston
+1925,Charles Mellor (USA),USA,02:33:00,NaN,NaN,NaN,Boston
+1926,Johnny Miles (CAN),CAN,02:25:40,NaN,NaN,NaN,Boston
+1927,Clarence DeMar -5-,USA,02:40:22,NaN,NaN,NaN,Boston
+1928,Clarence DeMar -6-,USA,02:37:07,NaN,NaN,NaN,Boston
+1929,Johnny Miles -2-,USA,02:33:08,NaN,NaN,NaN,Boston
+1930,Clarence DeMar -7-,USA,02:34:48,NaN,NaN,NaN,Boston
+1931,James Henigan (USA),USA,02:46:45,NaN,NaN,NaN,Boston
+1932,Paul de Bruyn (GER),GER,02:33:36,NaN,NaN,NaN,Boston
+1933,Leslie S. Pawson (USA),USA,02:31:01,NaN,NaN,NaN,Boston
+1934,Dave Komonen (CAN),CAN,02:32:53,NaN,NaN,NaN,Boston
+1935,Johnny Kelley (USA),USA,02:32:07,NaN,NaN,NaN,Boston
+1936,Ellison Brown (USA),USA,02:33:40,NaN,NaN,NaN,Boston
+1937,Walter Young (CAN),CAN,02:33:20,NaN,NaN,NaN,Boston
+1938,Leslie S. Pawson -2-,USA,02:35:34,NaN,NaN,NaN,Boston
+1939,Ellison Brown -2-,USA,02:28:51,NaN,NaN,NaN,Boston
+1940,Gérard Côté (CAN),CAN,02:28:28,NaN,NaN,NaN,Boston
+1941,Leslie S. Pawson -3-,USA,02:30:38,NaN,NaN,NaN,Boston
+1942,Joe Smith (USA),USA,02:26:51,NaN,NaN,NaN,Boston
+1943,Gérard Côté -2-,CAN,02:28:26,NaN,NaN,NaN,Boston
+1944,Gérard Côté -3-,CAN,02:31:51,NaN,NaN,NaN,Boston
+1945,Johnny Kelley -2-,USA,02:30:40,NaN,NaN,NaN,Boston
+1946,Stylianos Kyriakidis (GRE),GRE,02:29:27,NaN,NaN,NaN,Boston
+1947,Suh Yun-bok (KOR),KOR,02:25:39,NaN,NaN,NaN,Boston
+1948,Gérard Côté -4-,CAN,02:31:02,NaN,NaN,NaN,Boston
+1948,Gérard Côté -4-,CAN,02:31:02,NaN,NaN,NaN,Boston
+1949,Karl Gösta Leandersson (SWE),SWE,02:31:50,NaN,NaN,NaN,Boston
+1950,Ham Kee-yong (KOR),KOR,02:32:39,NaN,NaN,NaN,Boston
+1951,Shigeki Tanaka (JPN),JPN,02:27:45,NaN,NaN,NaN,Boston
+1952,Doroteo Flores (GUA),GUA,02:31:53,NaN,NaN,NaN,Boston
+1953,Keizo Yamada (JPN),JPN,02:18:51,NaN,NaN,NaN,Boston
+1954,Veikko Karvonen (FIN),FIN,02:20:39,NaN,NaN,NaN,Boston
+1955,Hideo Hamamura (JPN),JPN,02:18:22,NaN,NaN,NaN,Boston
+1956,Antti Viskari (FIN),FIN,02:14:14,NaN,NaN,NaN,Boston
+1957,John J. Kelley (USA),USA,02:20:05,NaN,NaN,NaN,Boston
+1958,Franjo Mihalić (YUG),YUG,02:25:54,NaN,NaN,NaN,Boston
+1959,Eino Oksanen (FIN),FIN,02:22:42,NaN,NaN,NaN,Boston
+1960,Paavo Kotila (FIN),FIN,02:20:54,NaN,NaN,NaN,Boston
+1961,Eino Oksanen -2-,FIN,02:23:29,NaN,NaN,NaN,Boston
+1962,Eino Oksanen -3-,FIN,02:23:48,NaN,NaN,NaN,Boston
+1963,Aurèle Vandendriessche (BEL),BEL,02:18:58,NaN,NaN,NaN,Boston
+1964,Aurèle Vandendriessche -2-,BEL,02:19:59,NaN,NaN,NaN,Boston
+1965,Morio Shigematsu (JPN),JPN,02:16:33,NaN,NaN,NaN,Boston
+1966,Kenji Kimihara (JPN),JPN,02:17:11,Roberta Louise Gibb (USA),USA,03:21:40,Boston
+1967,Dave McKenzie (NZL),NZL,02:15:45,Roberta Louise Gibb -2-,USA,03:27:17,Boston
+1968,Amby Burfoot (USA),USA,02:22:17,Roberta Louise Gibb -3-,USA,03:30:00,Boston
+1969,Yoshiaki Unetani (JPN),JPN,02:13:49,Sara Mae Berman (USA),USA,03:22:46,Boston
+1970,Ron Hill (GBR),GBR,02:10:30,Sara Mae Berman -2-,USA,03:05:07,Boston
+1971,Alvaro Mejia Flores (COL),COL,02:18:45,Sara Mae Berman -3-,USA,03:08:30,Boston
+1972,Olavi Suomalainen (FIN),FIN,02:15:39,Nina Kuscsik (USA),USA,03:10:26,Boston
+1973,Jon Anderson (USA),USA,02:16:03,Jacqueline Hansen (USA),USA,03:05:59,Boston
+1974,Neil Cusack (IRL),IRL,02:13:39,Miki Gorman (USA),USA,02:47:11,Boston
+1975,Bill Rodgers (USA),USA,02:09:55,Liane Winter (FRG),GER,02:42:24,Boston
+1976,Jack Fultz (USA),USA,02:20:19,Kim Merritt (USA),USA,02:47:10,Boston
+1977,Jerome Drayton (CAN),CAN,02:14:46,Miki Gorman -2-,USA,02:48:33,Boston
+1978,Bill Rodgers -2-,USA,02:10:13,Gayle Barron (USA),USA,02:44:52,Boston
+1979,Bill Rodgers -3-,USA,02:09:27,Joan Benoit (USA),USA,02:35:15,Boston
+1980,Bill Rodgers -4-,USA,02:12:11,Jacqueline Gareau (CAN),CAN,02:34:28,Boston
+1981,Toshihiko Seko (JPN),JPN,02:09:26,Allison Roe (NZL),NZL,02:26:46,Boston
+1982,Alberto Salazar (USA),USA,02:08:52,Charlotte Teske (GER),GER,02:29:33,Boston
+1983,Greg Meyer (USA),USA,02:09:00,Joan Benoit -2-,USA,02:22:43,Boston
+1984,Geoff Smith (GBR),GBR,02:10:34,Lorraine Moller (NZL),NZL,02:29:28,Boston
+1985,Geoff Smith -2-,GBR,02:14:05,Lisa Weidenbach (USA),USA,02:34:06,Boston
+1986,Robert de Castella (AUS),AUS,02:07:51,Ingrid Kristiansen (NOR),NOR,02:24:55,Boston
+1987,Toshihiko Seko -2-,JPN,02:11:50,Rosa Mota (POR),POR,02:25:21,Boston
+1988,Ibrahim Hussein (KEN),KEN,02:08:43,Rosa Mota -2-,POR,02:24:30,Boston
+1989,Abebe Mekonnen (ETH),ETH,02:09:06,Ingrid Kristiansen -2-,NOR,02:24:33,Boston
+1990,Gelindo Bordin (ITA),ITA,02:08:19,Rosa Mota -3-,POR,02:25:24,Boston
+1991,Ibrahim Hussein -2-,KEN,02:11:06,Wanda Panfil (POL),POL,02:24:18,Boston
+1992,Ibrahim Hussein -3-,KEN,02:08:14,Olga Markowa (RUS),RUS,02:23:43,Boston
+1993,Cosmas Ndeti (KEN),KEN,02:09:33,Olga Markowa -2-,RUS,02:25:27,Boston
+1994,Cosmas Ndeti -2-,KEN,02:07:15,Uta Pippig (GER),GER,02:21:45,Boston
+1995,Cosmas Ndeti -3-,KEN,02:09:22,Uta Pippig -2-,GER,02:25:11,Boston
+1996,Moses Tanui (KEN),KEN,02:09:15,Uta Pippig -3-,GER,02:27:12,Boston
+1997,Lameck Aguta (KEN),KEN,02:10:34,Fatuma Roba (ETH),ETH,02:26:23,Boston
+1998,Moses Tanui -2-,KEN,02:07:34,Fatuma Roba -2-,ETH,02:23:21,Boston
+1999,Joseph Chebet (KEN),KEN,02:09:52,Fatuma Roba -3-,ETH,02:23:25,Boston
+2000,Elijah Lagat (KEN),KEN,02:09:47,Catherine Ndereba (KEN),KEN,02:26:11,Boston
+2001,Lee Bong-ju (KOR),KOR,02:09:43,Catherine Ndereba -2-,KEN,02:23:53,Boston
+2002,Rodgers Rop (KEN),KEN,02:09:02,Margaret Okayo (KEN),KEN,02:20:43,Boston
+2003,Robert Kipkoech Cheruiyot (KEN),KEN,02:10:11,Swetlana Sacharowa (RUS),RUS,02:25:20,Boston
+2004,Timothy Cherigat (KEN),KEN,02:10:37,Catherine Ndereba -3-,KEN,02:24:27,Boston
+2005,Hailu Negussie (ETH),ETH,02:11:45,Catherine Ndereba -4-,KEN,02:25:13,Boston
+2006,Robert Kipkoech Cheruiyot,KEN,02:07:14,Rita Jeptoo Sitienei (KEN),KEN,02:23:38,Boston
+2007,Robert Kipkoech Cheruiyot,KEN,02:14:13,Lidija Grigorjewa (RUS),RUS,02:29:18,Boston
+2008,Robert Kipkoech Cheruiyot,KEN,02:07:46,Dire Tune (ETH),ETH,02:25:25,Boston
+2009,Deriba Merga (ETH),ETH,02:08:42,Salina Jebet Kosgei (KEN),KEN,02:32:16,Boston
+2010,Robert Kiprono Cheruiyot,KEN,02:05:52,Teyba Erkesso (ETH),ETH,02:26:11,Boston
+2011,Geoffrey Kiprono Mutai,KEN,02:03:02,Caroline Cheptanui Kilel (KEN),KEN,02:22:36,Boston
+2012,Wesley Korir ,KEN,02:12:40,Sharon Jemutai Cherop (KEN),KEN,02:31:50,Boston
+2013,Lelisa Desisa ,ETH,02:10:22,Rita Jeptoo Sitienei -2-,KEN,02:26:25,Boston
+2014,Meb Keflezighi ,USA,02:08:37,Bizunesh Deba (ETH),ETH,02:19:59,Boston
+2015,Lelisa Desisa -2-,ETH,02:09:17,Caroline Rotich (KEN),KEN,02:24:55,Boston
+2016,Lemi Berhanu ,ETH,02:12:45,Atsede Baysa (ETH),ETH,02:29:19,Boston
+2017,Geoffrey Kirui ,KEN,02:09:37,Edna Kiplagat (KEN),KEN,02:21:52,Boston
+1974,Günter Hallas (GER),GER,02:44:53,Jutta von Haase (GER),GER,03:22:01,Berlin
+1975,Ralf Bochröder (GER),GER,02:47:08,Kristin Bochröder (GER),GER,03:59:15,Berlin
+1976,Ingo Sensburg (GER),GER,02:23:08,Ursula Blaschke (GER),GER,03:05:19,Berlin
+1977,Günter Mielke (GER),GER,02:15:19,Christa Vahlensieck (GER),GER,02:34:48,Berlin
+1978,Michael Spöttel (GER),GER,02:20:03,Ursula Blaschke (2. Sieg),GER,02:57:09,Berlin
+1979,Ingo Sensburg (2. Sieg),GER,02:21:09,Jutta von Haase (2. Sieg),GER,03:07:07,Berlin
+1980,Ingo Sensburg (3. Sieg),GER,02:16:48,Gerlinde Püttmann (GER),GER,02:47:18,Berlin
+1981,Ian Ray (GBR),GBR,02:15:42,Angelika Stephan (GER),GER,02:47:24,Berlin
+1982,Domingo Tibaduiza (COL),COL,02:14:47,Jean Lochhead (GBR),GBR,02:47:05,Berlin
+1983,Karel Lismont (BEL),BEL,02:13:37,Karen Goldhawk (GBR),GBR,02:40:32,Berlin
+1984,John Skovbjerg (DEN),DEN,02:13:35,Ágnes Sipka (HUN),HUN,02:39:32,Berlin
+1985,Jimmy Ashworth (GBR),GBR,02:11:43,Magda Ilands (BEL),BEL,02:34:10,Berlin
+1986,Bogusław Psujek (POL),POL,02:11:03,Charlotte Teske (GER),GER,02:32:10,Berlin
+1987,Suleiman Nyambui (TAN),TAN,02:11:11,Kerstin Preßler (GER),GER,02:31:22,Berlin
+1988,Suleiman Nyambui (2. Sieg),TAN,02:11:45,Renata Kokowska (POL),POL,02:29:16,Berlin
+1989,Alfredo Shahanga (TAN),TAN,02:10:11,Päivi Tikkanen (FIN),FIN,02:28:45,Berlin
+1990,Steve Moneghetti (AUS),AUS,02:08:16,Uta Pippig (GDR),GER,02:28:37,Berlin
+1991,Steve Brace (GBR),GBR,02:10:57,Renata Kokowska (2. Sieg),POL,02:27:36,Berlin
+1992,David Tsebe (RSA),RSA,02:08:07,Uta Pippig (2. Sieg),GER,02:30:22,Berlin
+1993,Xolile Yawa (RSA),RSA,02:10:57,Renata Kokowska (3. Sieg),POL,02:26:20,Berlin
+1994,António Pinto (POR),POR,02:08:31,Katrin Dörre-Heinig (GER),GER,02:25:15,Berlin
+1995,Sammy Lelei (KEN),KEN,02:07:02,Uta Pippig (3. Sieg),GER,02:25:37,Berlin
+1996,Abel Antón (ESP),ESP,02:09:15,Colleen De Reuck (RSA),RSA,02:26:35,Berlin
+1997,Elijah Lagat (KEN),KEN,02:07:41,Catherina McKiernan (IRL),IRL,02:23:44,Berlin
+1998,Ronaldo da Costa (BRA),BRA,02:06:05,Marleen Renders (BEL),BEL,02:25:22,Berlin
+1999,Josephat Kiprono (KEN),KEN,02:06:44,Tegla Loroupe (KEN),KEN,02:20:43,Berlin
+2000,Simon Biwott (KEN),KEN,02:07:42,Kazumi Matsuo (JPN),JPN,02:26:15,Berlin
+2001,Joseph Ngolepus (KEN),KEN,02:08:47,Naoko Takahashi (JPN),JPN,02:19:46,Berlin
+2002,Raymond Kipkoech Chemwelo (KEN),KEN,02:06:47,Naoko Takahashi (2. Sieg),JPN,02:21:49,Berlin
+2003,Paul Tergat (KEN),KEN,02:04:55,Yasuko Hashimoto (JPN),JPN,02:26:32,Berlin
+2004,Felix Limo (KEN),KEN,02:06:44,Yōko Shibui (JPN),JPN,02:19:41,Berlin
+2005,Philip Kipkurgat Manyim (KEN),KEN,02:07:41,Mizuki Noguchi (JPN),JPN,02:19:12,Berlin
+2006,Haile Gebrselassie (ETH),ETH,02:05:56,Gete Wami (ETH),ETH,02:21:34,Berlin
+2007,Haile Gebrselassie (2. Sieg),ETH,02:04:26,Gete Wami (2. Sieg),ETH,02:23:17,Berlin
+2008,Haile Gebrselassie (3. Sieg),ETH,02:03:59,Irina Mikitenko (GER),GER,02:19:19,Berlin
+2009,Haile Gebrselassie (4. Sieg),ETH,02:06:08,Atsede Habtamu (ETH),ETH,02:24:46,Berlin
+2010,Patrick Makau Musyoki (KEN),KEN,02:05:08,Aberu Kebede (ETH),ETH,02:23:58,Berlin
+2011,Patrick Makau Musyoki (2. Sieg),KEN,02:03:38,Florence Jebet Kiplagat (KEN),KEN,02:19:44,Berlin
+2012,Geoffrey Kiprono Mutai (KEN),KEN,02:04:15,Aberu Kebede (2. Sieg),ETH,02:20:30,Berlin
+2013,Wilson Kipsang (KEN),KEN,02:03:23,Florence Jebet Kiplagat (2. Sieg),KEN,02:21:13,Berlin
+2014,Dennis Kimetto (KEN),KEN,02:02:57,Tirfi Tsegaye (ETH),ETH,02:20:18,Berlin
+2015,Eliud Kipchoge (KEN),KEN,02:04:00,Gladys Cherono (KEN),KEN,02:19:25,Berlin
+2016,Kenenisa Bekele (ETH),ETH,02:03:03,Aberu Kebede (3. Sieg),ETH,02:20:45,Berlin
+1977,Dan Cloeter (USA),USA,02:17:52,Dorothy Doolittle (USA),USA,02:50:47,Chicago
+1978,Mark Stanforth (USA),USA,02:19:20,Lynae Larson (USA),USA,02:59:25,Chicago
+1979,Dan Cloeter (2. Sieg),USA,02:23:20,Laura Michalek (USA),USA,03:15:45,Chicago
+1980,Frank Richardson (USA),USA,02:14:04,Sue Peterson (USA),USA,02:45:03,Chicago
+1981,Phil Coppess (USA),USA,02:16:13,Tina Gandy (USA),USA,02:49:39,Chicago
+1982,Greg Meyer (USA),USA,02:10:59,Nancy Conz (USA),USA,02:33:23,Chicago
+1983,Joseph Nzau (KEN),KEN,02:09:44,Rosa Mota (POR),POR,02:31:12,Chicago
+1984,Steve Jones (GBR),GBR,02:08:05,Rosa Mota (2. Sieg),POR,02:26:01,Chicago
+1985,Steve Jones (2. Sieg),GBR,02:07:13,Joan Benoit Samuelson (USA),USA,02:21:21,Chicago
+1986,Toshihiko Seko (JPN),JPN,02:08:27,Ingrid Kristiansen (NOR),NOR,02:27:08,Chicago
+1988,Alejandro Cruz (MEX),MEX,02:08:57,Lisa Weidenbach (USA),USA,02:29:17,Chicago
+1989,Paul Davies-Hale (GBR),GBR,02:11:25,Lisa Weidenbach (2. Sieg),USA,02:28:15,Chicago
+1990,Martín Pitayo (MEX),MEX,02:09:41,Aurora Cunha (POR),POR,02:30:11,Chicago
+1991,Joseildo Rocha da Silva (BRA),BRA,02:14:33,Midde Hamrin (SWE),SWE,02:36:21,Chicago
+1992,José César de Souza (BRA),BRA,02:16:14,Linda Somers (USA),USA,02:37:41,Chicago
+1993,Luíz Antônio dos Santos (BRA),BRA,02:13:15,Ritva Lemettinen (FIN),FIN,02:33:18,Chicago
+1994,Luíz Antônio dos Santos (2. Sieg),BRA,02:11:16,Kristy Johnston (USA),USA,02:31:34,Chicago
+1995,Eamonn Martin (GBR),GBR,02:11:18,Ritva Lemettinen (2. Sieg),FIN,02:28:27,Chicago
+1996,Paul Evans (GBR),GBR,02:08:52,Marian Sutton (GBR),GBR,02:30:41,Chicago
+1997,Khalid Khannouchi (MAR),MAR,02:07:10,Marian Sutton (2. Sieg),GBR,02:29:03,Chicago
+1998,Ondoro Osoro (KEN),KEN,02:06:54,Joyce Chepchumba (KEN),KEN,02:23:57,Chicago
+1999,Khalid Khannouchi (2. Sieg),MAR,02:05:42,Joyce Chepchumba (2. Sieg),KEN,02:25:59,Chicago
+2000,Khalid Khannouchi (USA) (3. Sieg),MAR,02:07:01,Catherine Ndereba (KEN),KEN,02:21:33,Chicago
+2001,Benedict Muli Kimondiu (KEN),KEN,02:08:52,Catherine Ndereba (2. Sieg),KEN,02:18:47,Chicago
+2002,Khalid Khannouchi (4. Sieg),MAR,02:05:56,Paula Radcliffe (GBR),GBR,02:17:18,Chicago
+2003,Evans Rutto (KEN),KEN,02:05:50,Swetlana Sacharowa (RUS),RUS,02:23:07,Chicago
+2004,Evans Rutto (2. Sieg),KEN,02:06:16,Constantina Tomescu (ROM),ROM,02:23:45,Chicago
+2005,Felix Limo (KEN),KEN,02:07:02,Deena Kastor (USA),USA,02:21:25,Chicago
+2006,Robert Kipkoech Cheruiyot (KEN),KEN,02:07:35,Berhane Adere (ETH),ETH,02:20:42,Chicago
+2007,Patrick Mutuku Ivuti (KEN),KEN,02:11:11,Berhane Adere (2. Sieg),ETH,02:33:49,Chicago
+2008,Evans Kiprop Cheruiyot (KEN),KEN,02:06:25,Lidija Grigorjewa (RUS),RUS,02:27:17,Chicago
+2009,Samuel Kamau Wanjiru (KEN),KEN,02:05:41,Irina Mikitenko (GER),GER,02:26:31,Chicago
+2010,Samuel Kamau Wanjiru (2. Sieg),KEN,02:06:24,Atsede Baysa (ETH),ETH,02:23:40,Chicago
+2011,Moses Cheruiyot Mosop (KEN),KEN,02:05:37,Ejegayehu Dibaba (ETH),ETH,02:22:09,Chicago
+2012,Tsegay Kebede (ETH),ETH,02:04:38,Atsede Baysa (2. Sieg),ETH,02:22:04,Chicago
+2013,Dennis Kipruto Kimetto (KEN),KEN,02:03:45,Rita Jeptoo Sitienei (KEN),KEN,02:19:57,Chicago
+2014,Eliud Kipchoge (KEN),KEN,02:04:11,Mare Dibaba (ETH),ETH,02:25:37,Chicago
+2015,Dickson Kiptolo Chumba (KEN),KEN,02:09:25,Florence Jebet Kiplagat (KEN),KEN,02:23:33,Chicago
+2016,Abel Kirui (KEN),KEN,02:11:23,Florence Jebet Kiplagat (2. Sieg),KEN,02:21:32,Chicago
+1981,Dick Beardsley,USA,02:11:48,,,,
+1981,"
+Inge Simonsen",NOR,02:11:48,Joyce Smith (GBR),GBR,02:29:57,London
+1982,Hugh Jones (GBR),GBR,02:09:24,Joyce Smith -2-,GBR,02:29:43,London
+1983,Mike Gratton (GBR),GBR,02:09:43,Grete Waitz (NOR),NOR,02:25:29,London
+1984,Charlie Spedding (GBR),GBR,02:09:57,Ingrid Kristiansen (NOR),NOR,02:24:26,London
+1985,Steve Jones (GBR),GBR,02:08:16,Ingrid Kristiansen -2-,NOR,02:21:06,London
+1986,Toshihiko Seko (JPN),JPN,02:10:02,Grete Waitz -2-,NOR,02:24:54,London
+1987,Hiromi Taniguchi (JPN),JPN,02:09:50,Ingrid Kristiansen -3-,NOR,02:22:48,London
+1988,Henrik Jørgensen (DEN),DEN,02:10:20,Ingrid Kristiansen -4-,NOR,02:25:41,London
+1989,Douglas Wakiihuri (KEN),KEN,02:09:03,Veronique Marot (GBR),GBR,02:25:56,London
+1990,Allister Hutton (GBR),GBR,02:10:10,Wanda Panfil (POL),POL,02:26:31,London
+1991,Jakow Tolstikow (RUS),RUS,02:09:17,Rosa Mota (POR),POR,02:26:14,London
+1992,António Pinto (POR),POR,02:10:02,Katrin Dörre-Heinig (GER),GER,02:29:39,London
+1993,Eamonn Martin (GBR),GBR,02:10:50,Katrin Dörre-Heinig -2-,GBR,02:27:09,London
+1994,Dionicio Cerón (MEX),MEX,02:08:53,Katrin Dörre-Heinig -3-,GBR,02:32:34,London
+1995,Dionicio Cerón -2-,GBR,02:08:30,Małgorzata Sobańska (POL),POL,02:27:43,London
+1996,Dionicio Cerón -3-,GBR,02:10:00,Liz McColgan (GBR),GBR,02:27:54,London
+1997,António Pinto -2-,POR,02:07:55,Joyce Chepchumba (KEN),KEN,02:26:51,London
+1998,Abel Antón (ESP),ESP,02:07:57,Catherina McKiernan (IRL),IRL,02:26:26,London
+1999,Abdelkader El Mouaziz (MAR),MAR,02:07:57,Joyce Chepchumba -2-,KEN,02:23:22,London
+2000,António Pinto -3-,POR,02:06:36,Tegla Loroupe (KEN),KEN,02:24:33,London
+2001,Abdelkader El Mouaziz -2-,MAR,02:07:11,Derartu Tulu (ETH),ETH,02:23:57,London
+2002,Khalid Khannouchi (USA),USA,02:05:38,Paula Radcliffe (GBR),GBR,02:18:56,London
+2003,Gezahegne Abera (ETH),ETH,02:07:56,Paula Radcliffe -2-,KEN,02:15:25,London
+2004,Evans Rutto (KEN),KEN,02:06:18,Margaret Okayo (KEN),KEN,02:22:35,London
+2005,Martin Kiptoo Lel (KEN),KEN,02:07:26,Paula Radcliffe -3-,GBR,02:17:42,London
+2006,Felix Limo (KEN),KEN,02:06:39,Deena Kastor (USA),USA,02:19:36,London
+2007,Martin Kiptoo Lel -2-,KEN,02:07:41,Zhou Chunxiu (CHN),CHN,02:20:38,London
+2008,Martin Kiptoo Lel -3-,KEN,02:05:15,Irina Mikitenko (GER),GER,02:24:14,London
+2009,Samuel Kamau Wanjiru (KEN),KEN,02:05:10,Irina Mikitenko -2-,GER,02:22:11,London
+2010,Tsegay Kebede (ETH),ETH,02:05:19,Aselefech Mergia (ETH),ETH,02:22:38,London
+2011,Emmanuel Kipchirchir Mutai (KEN),KEN,02:04:40,Mary Jepkosgei Keitany (KEN),KEN,02:19:19,London
+2012,Wilson Kipsang (KEN),KEN,02:04:44,Mary Jepkosgei Keitany -2-,KEN,02:18:37,London
+2013,Tsegay Kebede -2-,ETH,02:06:04,Priscah Jeptoo (KEN),KEN,02:20:15,London
+2014,Wilson Kipsang -2-,KEN,02:04:29,Edna Ngeringwony Kiplagat (KEN),KEN,02:20:21,London
+2015,Eliud Kipchoge (KEN),KEN,02:04:42,Tigist Tufa (ETH),ETH,02:23:21,London
+2016,Eliud Kipchoge -2-,KEN,02:03:05,Jemima Sumgong (KEN),KEN,02:22:58,London
+2017,Daniel Wanjiru (KEN),KEN,02:05:48,Mary Jepkosgei Keitany -3-,KEN,02:17:01,London
+2007,Daniel Njenga,KEN,02:09:45,Hitomi Niiya,JPN,02:31:02,Tokio
+2008,Viktor Röthlin,SUI,02:07:23,Claudia Dreher,GER,02:35:35,Tokio
+2009,Salim Kipsang,KEN,02:10:27,Mizuho Nasukawa,JPN,02:25:38,Tokio
+2010,Masakazu Fujiwara,JPN,02:12:19,Alevtina Biktimirova,RUS,02:34:39,Tokio
+2011,Hailu Mekonnen,ETH,02:07:35,Noriko Higuchi [8],JPN,02:28:49,Tokio
+2012,Michael Kipyego,KEN,02:07:37,Atsede Habtamu,ETH,02:25:28,Tokio
+2013,Dennis Kimetto,KEN,02:06:50,Aberu Kebede,ETH,02:25:34,Tokio
+2014,Dickson Chumba,KEN,02:05:42,Tirfi Tsegaye,ETH,02:22:23,Tokio
+2015,Endeshaw Negesse,ETH,02:06:00,Birhane Dibaba,ETH,02:23:15,Tokio
+2016,Feyisa Lilesa,ETH,02:06:56,Helah Kiprop,KEN,02:21:27,Tokio
+2017,Wilson Kipsang,KEN,02:03:58,Sarah Chepchirchir,KEN,02:19:47,Tokio
