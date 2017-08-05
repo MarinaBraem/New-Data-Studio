@@ -37,7 +37,7 @@ date,m_winner,m_country,m_time,f_winner,f_country,f_time,marathon
 2005,Paul Tergat,KEN,02:09:30,Jeļena Prokopčuka,GBR,02:24:41,New York
 2006,Marílson dos Santos,BRA,02:09:58,Jeļena Prokopčuka,LAT,02:25:05,New York
 2007,Martin Kiptoo Lel,KEN,02:09:04,Paula Radcliffe,GBR,02:23:09,New York
-2008,Marílson dos Santos, BRA,02:08:43,Paula Radcliffe,GBR,02:23:56,New York
+2008,Marílson dos Santos,BRA,02:08:43,Paula Radcliffe,GBR,02:23:56,New York
 2009,Mebrahtom Keflezighi,USA,02:09:15,Derartu Tulu,ETH,02:28:52,New York
 2010,Gebregziabher Gebremariam,ETH,02:08:14,Edna Ngeringwony Kiplagat,KEN,02:28:20,New York
 2011,Geoffrey Kiprono Mutai,KEN,02:05:06,Firehiwot Dado,ETH,02:23:15,New York
@@ -66,7 +66,6 @@ date,m_winner,m_country,m_time,f_winner,f_country,f_time,marathon
 1915,Édouard Fabre (CAN),CAN,02:31:41,NaN,NaN,NaN,Boston
 1916,Arthur V. Roth (USA),USA,02:27:16,NaN,NaN,NaN,Boston
 1917,Bill Kennedy (USA),USA,02:28:37,NaN,NaN,NaN,Boston
-1918,(nur Mannschaftswertung),NaN,NaN,NaN,NaN,NaN,Boston
 1919,Carl Linder (USA),USA,02:29:13,NaN,NaN,NaN,Boston
 1920,Peter Trivoulidas (GRE),GRE,02:29:31,NaN,NaN,NaN,Boston
 1921,Frank T. Zuna (USA),USA,02:18:57,NaN,NaN,NaN,Boston
@@ -249,8 +248,9 @@ date,m_winner,m_country,m_time,f_winner,f_country,f_time,marathon
 2014,Eliud Kipchoge (KEN),KEN,02:04:11,Mare Dibaba (ETH),ETH,02:25:37,Chicago
 2015,Dickson Kiptolo Chumba (KEN),KEN,02:09:25,Florence Jebet Kiplagat (KEN),KEN,02:23:33,Chicago
 2016,Abel Kirui (KEN),KEN,02:11:23,Florence Jebet Kiplagat (2. Sieg),KEN,02:21:32,Chicago
-1981,"Dick Beardsley (USA)
-& Inge Simonsen (NOR)",USA / NOR,02:11:48,Joyce Smith (GBR),GBR,02:29:57,London
+1981,Dick Beardsley,USA,02:11:48,,,,
+1981,"
+Inge Simonsen",NOR,02:11:48,Joyce Smith (GBR),GBR,02:29:57,London
 1982,Hugh Jones (GBR),GBR,02:09:24,Joyce Smith -2-,GBR,02:29:43,London
 1983,Mike Gratton (GBR),GBR,02:09:43,Grete Waitz (NOR),NOR,02:25:29,London
 1984,Charlie Spedding (GBR),GBR,02:09:57,Ingrid Kristiansen (NOR),NOR,02:24:26,London
